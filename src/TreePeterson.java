@@ -1,6 +1,6 @@
 
 /*
-	author Carlos Bilbao
+	@author Carlos Bilbao
 	bilbao@vt.edu
 */
 
